@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AwayFairer
 - 👀 I’m interested in learning coding to become a data scientist
-- 🌱 I’m currently learning Python, SQL, and R
+- 🌱 I’m currently learning Python, SQL, and Tableau
 - 💞️ I’m looking to collaborate on ways to better prepare myself as a data scientist
 
 <!---
