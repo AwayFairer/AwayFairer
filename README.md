@@ -11,8 +11,8 @@ Feel free to check out my constantly expanding [portfolio](https://github.com/Wa
 ## 🛠️My Skills 
 
 * Quality Assurance, Statistics, Business/Pharmaceutical Domain Knowledge
-* Python, SQL, R, Tableau
-* Data Analysis, Database Maintenance, Report Genreation
+* Python, SQL, R, Tableau, Salesforce
+* Data Analysis, Database Maintenance, Report and Dashboard Generation
 
 ## 🌱 Currently Working On... 
 
