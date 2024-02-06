@@ -1,6 +1,6 @@
 ## Intro 
 
-Hello! My name is Macy, and I am a self-taught Data Scientist living in Wyoming. 
+Hello! My name is Macy, and I am a self-taught Data Analyst living in Wyoming. 
 
 After acheiving a BS in Physiology, completing my MBA in International Business, and working as a quality pharmaceutical scientist, I realized my passion throughout all my work and education lay in working with data. Since 2020, I have dedicated myself to learning Python, SQL, R, and Tableau to pursue my career in data science.
 
@@ -16,4 +16,4 @@ Feel free to check out my constantly expanding [portfolio](https://github.com/Wa
 
 ## 🌱 Currently Working On... 
 
-At present, I'm working through the Data Scientist Professional with Python career track on Datacamp, which is preparing me for the eponymous Datacamp certification. So far, it has been the most helpful course I have participated in online for learning data science! Not only are the examples easy to understand and follow, but the course also presents how these concepts can and will apply when working as a Data Scientist. It also provides a great source for working on projects (something I found very intimidating to try on my own at first!). I have my notes posted [here](https://github.com/Way-Fairer/DataCamp_DataScientist_Notes) within my repositories as well. Take into consideration though, that given my personal learning style and note-taking preferences, these notes could be used as a good example of "dirty" data 😅
+At present, I'm reevaluating my current skillset to determine which skills I need to refresh through projects. So stay tuned for incoming new repos!
